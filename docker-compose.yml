@@ -2,8 +2,9 @@ services:
   frontend:
     build: client/
     ports:
-      - 5173:8080
+      - 5172:8080
     restart: always
+    container_name: 5d-diplomacy-2p-frontend
   backend:
     build: server/
     environment:
@@ -12,3 +13,4 @@ services:
     volumes:
       - ./server/mount:/app/mount
     restart: always
+    container_name: 5d-diplomacy-2p-backend
