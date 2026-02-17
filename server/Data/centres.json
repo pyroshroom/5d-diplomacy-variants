@@ -1,29 +1,24 @@
 [
   {
-    "location": { "regionId": "Ank" },
-    "owner": "Turkey"
+    "location": { "regionId": "Ank" }
   },
   {
     "location": { "regionId": "Bel" }
   },
   {
-    "location": { "regionId": "Ber" },
-    "owner": "Germany"
+    "location": { "regionId": "Ber" }
   },
   {
-    "location": { "regionId": "Bre" },
-    "owner": "France"
+    "location": { "regionId": "Bre" }
   },
   {
-    "location": { "regionId": "Bud" },
-    "owner": "Austria"
+    "location": { "regionId": "Bud" }
   },
   {
     "location": { "regionId": "Bul" }
   },
   {
-    "location": { "regionId": "Con" },
-    "owner": "Turkey"
+    "location": { "regionId": "Con" }
   },
   {
     "location": { "regionId": "Den" }
@@ -36,11 +31,11 @@
     "location": { "regionId": "Gre" }
   },
   {
-    "location": { "regionId": "Hol" }
+    "location": { "regionId": "Hol" },
+    "owner": "England"
   },
   {
-    "location": { "regionId": "Kie" },
-    "owner": "Germany"
+    "location": { "regionId": "Kie" }
   },
   {
     "location": { "regionId": "Lon" },
@@ -51,16 +46,14 @@
     "owner": "England"
   },
   {
-    "location": { "regionId": "Mar" },
-    "owner": "France"
+    "location": { "regionId": "Mar" }
   },
   {
     "location": { "regionId": "Mos" },
     "owner": "Russia"
   },
   {
-    "location": { "regionId": "Mun" },
-    "owner": "Germany"
+    "location": { "regionId": "Mun" }
   },
   {
     "location": { "regionId": "Nap" },
@@ -70,8 +63,7 @@
     "location": { "regionId": "Nwy" }
   },
   {
-    "location": { "regionId": "Par" },
-    "owner": "France"
+    "location": { "regionId": "Par" }
   },
   {
     "location": { "regionId": "Por" }
@@ -91,8 +83,7 @@
     "owner": "Russia"
   },
   {
-    "location": { "regionId": "Smy" },
-    "owner": "Turkey"
+    "location": { "regionId": "Smy" }
   },
   {
     "location": { "regionId": "Spa" }
@@ -106,7 +97,7 @@
   },
   {
     "location": { "regionId": "Tri" },
-    "owner": "Austria"
+    "owner": "Italy"
   },
   {
     "location": { "regionId": "Tun" }
@@ -116,8 +107,7 @@
     "owner": "Italy"
   },
   {
-    "location": { "regionId": "Vie" },
-    "owner": "Austria"
+    "location": { "regionId": "Vie" }
   },
   {
     "location": { "regionId": "War" },
