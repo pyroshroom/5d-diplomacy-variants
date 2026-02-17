@@ -33,7 +33,7 @@ const regions: { [id: string]: Region } = {
   Gas: { x: 210, y: 300, type: RegionType.Coast },
   Gre: { x: 550, y: 140, type: RegionType.Coast, isSupplyCentre: true },
   HEL: { x: 350, y: 505, type: RegionType.Sea },
-  Hol: { x: 320, y: 445, type: RegionType.Coast, isSupplyCentre: true homeNation: Nation.England },
+  Hol: { x: 320, y: 445, type: RegionType.Coast, isSupplyCentre: true, homeNation: Nation.England },
   ION: { x: 490, y: 60, type: RegionType.Sea },
   IRI: { x: 140, y: 475, type: RegionType.Sea },
   Kie: { x: 375, y: 450, type: RegionType.Coast, isSupplyCentre: true },
