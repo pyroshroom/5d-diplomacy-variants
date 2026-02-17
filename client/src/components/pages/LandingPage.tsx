@@ -13,6 +13,7 @@ const LandingPage = ({ setViewOption }: LandingPageProps) => (
       <div className="flex flex-col my-8">
         <p className="text-[72px] font-bold">5D Diplomacy</p>
         <p className="text-[36px] font-bold">With Multiverse Time Travel</p>
+        <p className="text-[24px] font-bold">3 Players - Italy vs England vs Russia</p>
       </div>
       <div className="flex flex-row gap-4 mb-8">
         <Button text="New Game" minWidth={184} onClick={() => setViewOption(SetupViewOption.New)} />
