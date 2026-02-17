@@ -1,14 +1,12 @@
 [
   {
-    "location": { "regionId": "Ank" },
-    "owner": "Turkey"
+    "location": { "regionId": "Ank" }
   },
   {
     "location": { "regionId": "Bel" }
   },
   {
-    "location": { "regionId": "Ber" },
-    "owner": "Germany"
+    "location": { "regionId": "Ber" }
   },
   {
     "location": { "regionId": "Bre" },
@@ -22,15 +20,13 @@
     "location": { "regionId": "Bul" }
   },
   {
-    "location": { "regionId": "Con" },
-    "owner": "Turkey"
+    "location": { "regionId": "Con" }
   },
   {
     "location": { "regionId": "Den" }
   },
   {
-    "location": { "regionId": "Edi" },
-    "owner": "England"
+    "location": { "regionId": "Edi" }
   },
   {
     "location": { "regionId": "Gre" }
@@ -39,32 +35,26 @@
     "location": { "regionId": "Hol" }
   },
   {
-    "location": { "regionId": "Kie" },
-    "owner": "Germany"
+    "location": { "regionId": "Kie" }
   },
   {
-    "location": { "regionId": "Lon" },
-    "owner": "England"
+    "location": { "regionId": "Lon" }
   },
   {
-    "location": { "regionId": "Lvp" },
-    "owner": "England"
+    "location": { "regionId": "Lvp" }
   },
   {
     "location": { "regionId": "Mar" },
     "owner": "France"
   },
   {
-    "location": { "regionId": "Mos" },
-    "owner": "Russia"
+    "location": { "regionId": "Mos" }
   },
   {
-    "location": { "regionId": "Mun" },
-    "owner": "Germany"
+    "location": { "regionId": "Mun" }
   },
   {
-    "location": { "regionId": "Nap" },
-    "owner": "Italy"
+    "location": { "regionId": "Nap" }
   },
   {
     "location": { "regionId": "Nwy" }
@@ -77,8 +67,7 @@
     "location": { "regionId": "Por" }
   },
   {
-    "location": { "regionId": "Rom" },
-    "owner": "Italy"
+    "location": { "regionId": "Rom" }
   },
   {
     "location": { "regionId": "Rum" }
@@ -87,19 +76,16 @@
     "location": { "regionId": "Ser" }
   },
   {
-    "location": { "regionId": "Sev" },
-    "owner": "Russia"
+    "location": { "regionId": "Sev" }
   },
   {
-    "location": { "regionId": "Smy" },
-    "owner": "Turkey"
+    "location": { "regionId": "Smy" }
   },
   {
     "location": { "regionId": "Spa" }
   },
   {
-    "location": { "regionId": "Stp" },
-    "owner": "Russia"
+    "location": { "regionId": "Stp" }
   },
   {
     "location": { "regionId": "Swe" }
@@ -112,15 +98,13 @@
     "location": { "regionId": "Tun" }
   },
   {
-    "location": { "regionId": "Ven" },
-    "owner": "Italy"
+    "location": { "regionId": "Ven" }
   },
   {
     "location": { "regionId": "Vie" },
     "owner": "Austria"
   },
   {
-    "location": { "regionId": "War" },
-    "owner": "Russia"
+    "location": { "regionId": "War" }
   }
 ]
