@@ -1,4 +1,4 @@
-# 5D Diplomacy With Multiverse Time Travel
+# 5D Diplomacy With Multiverse Time Travel - 2P - France Vs Austria
 
 A new standard in measuring how galaxy-brained you are, 5D Diplomacy With Multiverse Time Travel combines the classic game of pure negotiation with the modern classic game of pure disorientation. Can you convince your opponent to support an attack in the present while simultaneously backstabbing them five years ago and seven timelines over?
 
@@ -33,7 +33,7 @@ Steps:
 - Via the CLI, run the command `docker compose build frontend backend` and wait for it to complete.
 - Via the CLI, run the command `docker compose up -d` and wait for it to complete.
 - Wait an extra few seconds for the server to start up. If you experience errors creating a game in the next step, try waiting longer.
-- Access the game client at http://localhost:5173.
+- Access the game client at http://localhost:5172.
 
 If you ever update the code (manually or via a pull from this repository), you will need to run `docker compose down --rmi local`, then run through the steps above again. Note that this may result in the database being wiped.
 
